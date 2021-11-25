@@ -14,7 +14,8 @@ header {
   background-position: center 0;
   background-repeat: no-repeat; }
   header .banner {
-    width: 500px;
+    width: 400px;
+    height: 400px;
   }
   header .contenedor_logo_menu {
     padding: 25px 0;
