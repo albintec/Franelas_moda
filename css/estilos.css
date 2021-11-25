@@ -76,7 +76,8 @@ header {
     text-align: center; }
     .main .caracteristicas .caracteristica .icono {
       vertical-align: top;
-      margin-bottom: 30px; }
+      margin-bottom: 30px;
+    width: 200px; }
     .main .caracteristicas .caracteristica .primera_linea {
       font-weight: 700;
       margin-bottom: 30px;
